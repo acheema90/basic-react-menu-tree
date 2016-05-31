@@ -1,0 +1,17 @@
+{
+  "name": "react-menu-tree-basic",
+  "version": "1.0.0",
+  "description": "react-menu-tree",
+  "main": "main.js",
+  "scripts": {
+    "start": "webpack-dev-server"
+  },
+  "author": "Ajaypal Cheema",
+  "license": "ISC",
+  "dependencies": {
+    "invariant": "^2.2.1",
+    "lodash": "^4.13.1",
+    "react": "^15.1.0",
+    "react-dom": "^15.1.0"
+  }
+}

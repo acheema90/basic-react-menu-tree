@@ -1,0 +1,9 @@
+.tree-view-node {
+    margin-left: 10px;
+}
+
+.tree-view-node-label {
+    margin-left: 3px;
+    padding: 1px;
+    border: 1px solid #fff;
+}
